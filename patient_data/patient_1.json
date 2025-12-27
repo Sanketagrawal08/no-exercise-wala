@@ -1,0 +1,304 @@
+{
+  "patient_id": "1",
+  "name": "sanket",
+  "age": 25,
+  "condition": "Pelvic Floor Dysfunction",
+  "therapy_start_date": "2025-12-26T21:55:53.336742",
+  "gender": "Male",
+  "referring_physician": "sank@g",
+  "insurance_id": "Not specified",
+  "clinical_notes": "",
+  "current_pain_level": 5,
+  "target_rom": {},
+  "sessions": [],
+  "pelvic_history": [
+    {
+      "date": "2025-12-26T21:57:17.340207",
+      "left_pelvic_angle": 0.29384307176334895,
+      "right_pelvic_angle": -0.018103700902498094,
+      "posture_score": 7.623591151556398,
+      "analysis_data": {
+        "pelvic_tilt_angle": 0.29384307176334895,
+        "lateral_tilt_angle": -0.018103700902498094,
+        "posture_score": 7.623591151556398,
+        "analysis_quality": "session_average",
+        "measurement_confidence": 100.0,
+        "time_series": [
+          {
+            "timestamp": "2025-12-26T21:56:57.483648",
+            "pelvic_tilt_angle": 2.979472322204543,
+            "lateral_tilt_angle": -4.067439939587861,
+            "posture_score": 8.745846086847688,
+            "quality_score": 0.2750523706781678,
+            "analysis_quality": "poor",
+            "measurement_confidence": 27.50523706781678,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 99.63047504425049
+          },
+          {
+            "timestamp": "2025-12-26T21:56:57.942520",
+            "pelvic_tilt_angle": 0.2957711969097445,
+            "lateral_tilt_angle": -5.8664930706161815,
+            "posture_score": 8.824010157606471,
+            "quality_score": 0.3742720019072294,
+            "analysis_quality": "poor",
+            "measurement_confidence": 37.42720019072294,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 99.8694121837616
+          },
+          {
+            "timestamp": "2025-12-26T21:56:58.605764",
+            "pelvic_tilt_angle": 1.6811161366668232,
+            "lateral_tilt_angle": -5.760277629220819,
+            "posture_score": 8.763796357029035,
+            "quality_score": 0.46862494572997093,
+            "analysis_quality": "poor",
+            "measurement_confidence": 46.86249457299709,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 99.10048246383667
+          },
+          {
+            "timestamp": "2025-12-26T21:56:59.184295",
+            "pelvic_tilt_angle": 0.38403784436841804,
+            "lateral_tilt_angle": -2.0498941388761533,
+            "posture_score": 9.26618165103611,
+            "quality_score": 0.47862913832068443,
+            "analysis_quality": "poor",
+            "measurement_confidence": 47.86291383206844,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 97.76941537857056
+          },
+          {
+            "timestamp": "2025-12-26T21:56:59.791190",
+            "pelvic_tilt_angle": 1.7437014966348559,
+            "lateral_tilt_angle": -1.129625741319778,
+            "posture_score": 9.205849948533633,
+            "quality_score": 0.4849492944777012,
+            "analysis_quality": "poor",
+            "measurement_confidence": 48.49492944777012,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 99.49336647987366
+          },
+          {
+            "timestamp": "2025-12-26T21:57:00.377327",
+            "pelvic_tilt_angle": 1.5024636038569923,
+            "lateral_tilt_angle": -1.7133393602279998,
+            "posture_score": 9.230169875535596,
+            "quality_score": 0.4900175090879202,
+            "analysis_quality": "poor",
+            "measurement_confidence": 49.00175090879202,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 83.68993401527405
+          },
+          {
+            "timestamp": "2025-12-26T21:57:00.958187",
+            "pelvic_tilt_angle": -1.1515729037887241,
+            "lateral_tilt_angle": -28.37665987152164,
+            "posture_score": 5.471743541053822,
+            "quality_score": 0.5033353045582771,
+            "analysis_quality": "fair",
+            "measurement_confidence": 50.33353045582771,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 90.1942253112793
+          },
+          {
+            "timestamp": "2025-12-26T21:57:01.490767",
+            "pelvic_tilt_angle": 1.359805885900398,
+            "lateral_tilt_angle": -34.57099614647704,
+            "posture_score": 5.48067977244816,
+            "quality_score": 0.5677661038935184,
+            "analysis_quality": "fair",
+            "measurement_confidence": 56.776610389351845,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 96.91864252090454
+          },
+          {
+            "timestamp": "2025-12-26T21:57:01.994745",
+            "pelvic_tilt_angle": 1.4002956682888592,
+            "lateral_tilt_angle": 12.410180454999683,
+            "posture_score": 5.672897718846798,
+            "quality_score": 0.6728977188467979,
+            "analysis_quality": "fair",
+            "measurement_confidence": 67.2897718846798,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 99.59235191345215
+          },
+          {
+            "timestamp": "2025-12-26T21:57:02.583485",
+            "pelvic_tilt_angle": 1.4386453592972868,
+            "lateral_tilt_angle": 1.6706546794538986,
+            "posture_score": 7.7593362629413605,
+            "quality_score": 0.7593362629413605,
+            "analysis_quality": "good",
+            "measurement_confidence": 75.93362629413605,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 72.8986382484436
+          },
+          {
+            "timestamp": "2025-12-26T21:57:03.174497",
+            "pelvic_tilt_angle": 3.4589391036068107,
+            "lateral_tilt_angle": -3.4779541319086933,
+            "posture_score": 9.12326968213484,
+            "quality_score": 0.8243126720190048,
+            "analysis_quality": "good",
+            "measurement_confidence": 82.43126720190048,
+            "tm_label": "Good Posture",
+            "tm_confidence": 67.38383173942566
+          },
+          {
+            "timestamp": "2025-12-26T21:57:03.827305",
+            "pelvic_tilt_angle": 1.156452438693221,
+            "lateral_tilt_angle": 0.4452821879402093,
+            "posture_score": 7.871723264455795,
+            "quality_score": 0.8717232644557953,
+            "analysis_quality": "good",
+            "measurement_confidence": 87.17232644557953,
+            "tm_label": "Good Posture",
+            "tm_confidence": 59.81069207191467
+          },
+          {
+            "timestamp": "2025-12-26T21:57:04.330357",
+            "pelvic_tilt_angle": 1.212087427140747,
+            "lateral_tilt_angle": -1.7138003164315403,
+            "posture_score": 9.904742662868609,
+            "quality_score": 0.9063788503408432,
+            "analysis_quality": "excellent",
+            "measurement_confidence": 90.63788503408432,
+            "tm_label": "Good Posture",
+            "tm_confidence": 57.856059074401855
+          },
+          {
+            "timestamp": "2025-12-26T21:57:04.847056",
+            "pelvic_tilt_angle": 8.27408244531076,
+            "lateral_tilt_angle": -8.683590650873025,
+            "posture_score": 7.830682859699005,
+            "quality_score": 0.9289591014385223,
+            "analysis_quality": "excellent",
+            "measurement_confidence": 92.89591014385223,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 80.98281621932983
+          },
+          {
+            "timestamp": "2025-12-26T21:57:05.343372",
+            "pelvic_tilt_angle": 0.5075705525681689,
+            "lateral_tilt_angle": -6.836192049722903,
+            "posture_score": 6.946980699896812,
+            "quality_score": 0.9469806998968124,
+            "analysis_quality": "excellent",
+            "measurement_confidence": 94.69806998968124,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 54.71769571304321
+          },
+          {
+            "timestamp": "2025-12-26T21:57:05.876033",
+            "pelvic_tilt_angle": -4.154055054526843,
+            "lateral_tilt_angle": -0.3623710913150173,
+            "posture_score": 7.958313778042793,
+            "quality_score": 0.9583137780427933,
+            "analysis_quality": "excellent",
+            "measurement_confidence": 95.83137780427933,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 80.00385165214539
+          },
+          {
+            "timestamp": "2025-12-26T21:57:06.498014",
+            "pelvic_tilt_angle": 2.2851837849926615,
+            "lateral_tilt_angle": 33.91753409061553,
+            "posture_score": 6.085144869407575,
+            "quality_score": 0.9560849666595459,
+            "analysis_quality": "excellent",
+            "measurement_confidence": 95.60849666595459,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 85.49699783325195
+          },
+          {
+            "timestamp": "2025-12-26T21:57:08.170984",
+            "pelvic_tilt_angle": -12.198123581309115,
+            "lateral_tilt_angle": 18.639674352749097,
+            "posture_score": 5.932973220205119,
+            "quality_score": 0.9558883905410767,
+            "analysis_quality": "excellent",
+            "measurement_confidence": 95.58883905410767,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 57.96442627906799
+          },
+          {
+            "timestamp": "2025-12-26T21:57:08.755475",
+            "pelvic_tilt_angle": -10.189762506915864,
+            "lateral_tilt_angle": 16.18721855660574,
+            "posture_score": 5.581960511960309,
+            "quality_score": 0.9152588844299316,
+            "analysis_quality": "excellent",
+            "measurement_confidence": 91.52588844299316,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 92.79294013977051
+          },
+          {
+            "timestamp": "2025-12-26T21:57:09.289153",
+            "pelvic_tilt_angle": -4.120529738555056,
+            "lateral_tilt_angle": 4.639302660635441,
+            "posture_score": 7.315494731068611,
+            "quality_score": 0.8154947310686111,
+            "analysis_quality": "good",
+            "measurement_confidence": 81.54947310686111,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 98.28382730484009
+          },
+          {
+            "timestamp": "2025-12-26T21:57:09.914145",
+            "pelvic_tilt_angle": -0.5681771650803347,
+            "lateral_tilt_angle": 0.7559908037982642,
+            "posture_score": 7.729874707758427,
+            "quality_score": 0.7298747077584267,
+            "analysis_quality": "good",
+            "measurement_confidence": 72.98747077584267,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 81.4944326877594
+          },
+          {
+            "timestamp": "2025-12-26T21:57:10.453997",
+            "pelvic_tilt_angle": 2.8135802722023073,
+            "lateral_tilt_angle": -8.952120982120473,
+            "posture_score": 8.562838949187102,
+            "quality_score": 0.6659642681479454,
+            "analysis_quality": "fair",
+            "measurement_confidence": 66.59642681479454,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 96.05070948600769
+          },
+          {
+            "timestamp": "2025-12-26T21:57:10.961749",
+            "pelvic_tilt_angle": 3.631033303681648,
+            "lateral_tilt_angle": 11.427174278010828,
+            "posture_score": 6.598211631178856,
+            "quality_score": 0.5982116311788559,
+            "analysis_quality": "fair",
+            "measurement_confidence": 59.82116311788559,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 98.5792338848114
+          },
+          {
+            "timestamp": "2025-12-26T21:57:11.448415",
+            "pelvic_tilt_angle": 3.3102158301720657,
+            "lateral_tilt_angle": 13.0332542337505,
+            "posture_score": 7.103464697611033,
+            "quality_score": 0.5003375634551048,
+            "analysis_quality": "fair",
+            "measurement_confidence": 50.03375634551048,
+            "tm_label": "Highly Severe tilt",
+            "tm_confidence": 99.17719960212708
+          }
+        ],
+        "session_start": "2025-12-26T21:56:45.686733",
+        "session_end": "2025-12-26T21:57:17.340207"
+      },
+      "interpretation": "Excellent pelvic alignment within normal parameters",
+      "clinical_significance": "Good postural status - preventive measures recommended",
+      "recommendations": [
+        "Continue current postural habits",
+        "Maintain regular physical activity",
+        "Monitor posture during prolonged sitting"
+      ]
+    }
+  ]
+}
